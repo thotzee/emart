@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emart/static/css/main.03dbabc7.css",
+    "main.js": "/emart/static/js/main.1454cc9b.js",
+    "static/js/787.76b72599.chunk.js": "/emart/static/js/787.76b72599.chunk.js",
+    "static/media/bg.jpg": "/emart/static/media/bg.5b15a489dbb6e13aadb5.jpg",
+    "static/media/bg2.jpg": "/emart/static/media/bg2.4eef40f41dc954511707.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/emart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/emart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/emart/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/emart/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/emart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/emart/index.html",
+    "main.03dbabc7.css.map": "/emart/static/css/main.03dbabc7.css.map",
+    "main.1454cc9b.js.map": "/emart/static/js/main.1454cc9b.js.map",
+    "787.76b72599.chunk.js.map": "/emart/static/js/787.76b72599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03dbabc7.css",
+    "static/js/main.1454cc9b.js"
+  ]
+}
