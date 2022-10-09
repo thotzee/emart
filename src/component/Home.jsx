@@ -1,6 +1,6 @@
 import React from 'react'
 import '../assets/bg.jpg';
-import Products from './Products';
+import Products2 from './Products2';
 
 const Home = () => {
   return (
@@ -14,7 +14,7 @@ const Home = () => {
      </div>
      </div>
      </div>
-     <Products/>   
+     <Products2/>   
     </div>
   );
 }
