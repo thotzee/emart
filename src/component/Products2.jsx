@@ -58,7 +58,7 @@ const Products = () => {
   const ShowProducts = () => {
     return(
       <>
-      <div className="buttons d-flex justify-content-center mb-5 pb-5">
+      <div className="buttons d-flex justify-content-center mb-5 pb-5 flex-wrap">
         <Button className="btn  me-2" variant="outline-dark" onClick={()=>setFilter(data)}>All</Button>
         <Button className="btn  me-2" variant="outline-dark" onClick={()=>filterProduct("men's clothing")}>Men's Clothing</Button>
         <Button className="btn  me-2" variant="outline-dark" onClick={()=>filterProduct("women's clothing")}>Women's Clothing</Button>
